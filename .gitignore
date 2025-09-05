@@ -1,0 +1,9 @@
+# IDE/OS
+.vscode/
+.DS_Store
+
+# Node / сборка (на будущее)
+node_modules/
+dist/
+build/
+.env
